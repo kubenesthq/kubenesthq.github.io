@@ -24,10 +24,10 @@ const lexend = localFont({
 export const metadata: Metadata = {
   title: {
     template: '%s - Docs',
-    default: 'CacheAdvance - Never miss the cache again.',
+    default: 'Kubenest - The easiest way to deploy your applications.',
   },
   description:
-    'Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.',
+    'Change your infrastructure into an enterprise-ready deployment platform in minutes.',
 }
 
 export default function RootLayout({
