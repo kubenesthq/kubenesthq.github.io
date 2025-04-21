@@ -8,9 +8,7 @@ const nextConfig = {
   output: 'export',
   images: {
     unoptimized: true,
-  },
-  basePath: '/kn-docs',
-  assetPrefix: '/kn-docs/',
+  }
 }
 
 export default withSearch(
